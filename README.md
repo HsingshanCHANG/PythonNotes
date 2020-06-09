@@ -1,7 +1,7 @@
 # PythonNotes
 ## 目录
 1 数据科学视角下的《红楼梦》解读  
-  Python学习笔记||analysis_on_the_story_of_a_stone||红楼梦/石头记解读  
+  Python学习笔记||红楼梦/石头记解读  
 
 ## 说明
 1 内容进供学习参考。  
